@@ -1,5 +1,8 @@
 How Agentic AI Is Rewriting Source-to-Pay: A Practical Implementation Guide & ROI Playbook
+
 https://www.zycus.com/ 
+
+
 The procurement landscape is witnessing its biggest transformation in decades. Whereas traditional automation has been streamlining transactional tasks for years, agentic AI in procurementis fundamentally reimagining how S2P processes work: from rigid, rule-based systems to intelligent agents that think, learn, and act on their own.
 In fact, recent industry data indicates that procurement teams spend around 60% of their time on repetitive, low-value tasks. Meanwhile, an average of 15% of annual spend is lost to inefficiencies across the S2P cycle. This is where agentic AI enters as a game-changer: not just optimizing existing workflows, but rewriting the playbook.
 Understanding Agentic AI in the Procurement Context
